@@ -1,0 +1,47 @@
+/* want to make things pretty? */
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background: black;
+  font-family: cursive;
+  color: gold;
+  width: 100%;
+}
+
+select, input, button { 
+  background: green;
+  font-size: 18px;
+  width: 50%;
+ margin: auto;
+ text-align: center;
+ align: center;
+}
+
+div {
+  padding-top: 10px;
+  width: 50%; 
+ margin: auto;
+ text-align: center;
+}
+
+img{
+  text-align: center;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+
+
+#day{
+  width: 50%;
+   margin-left: auto;
+  margin-right: auto;
+}
